@@ -1,0 +1,48 @@
+.titulo {
+    text-align: center;
+    font-size: 40px;
+    font-family: "Bodoni Moda SC", serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    margin-bottom: 0px;
+}
+
+.encriptador {
+    border:  black;
+    width: 900px;
+    padding: 20px;
+    margin: px;
+    height: 100px;
+    
+}
+ button{
+    margin-left: 100px;
+    margin-right: 50px;
+    margin-top: px;
+    padding: 8px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    width: 500px;
+    border-radius: 4px;
+    border: 2px outset black;
+ }
+
+ button:hover{
+
+ }
+
+ textarea{
+    width: 900px;
+    padding: 100px;
+    margin-left:100px ;
+    margin-right: 100px;
+    margin-bottom: 700px;
+    margin-top: 0px;
+    resize: none;
+    padding: 100px;
+ }
+
+ .botones{
+    margin-top: 100px;
+ }

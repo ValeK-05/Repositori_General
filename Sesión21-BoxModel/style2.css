@@ -1,0 +1,50 @@
+.box1{
+    display: block;
+    height: 50px;
+    background-color: rgb(253, 253, 185);
+    border: 1px rgb(219, 195, 57) solid;
+    text-align:center;
+}
+
+.box2{
+    display: inline-block;
+    border: 1px solid rgb(196, 95, 243);
+    height: 50px;
+    width: 25%;
+    background-color:rgb(230, 194, 247) ;
+}
+
+.box3{
+    display: inline-block;
+    border: 1px solid rgb(10, 180, 172);
+    height: 50px;
+    width: 25%;
+    background-color: rgb(187, 250, 247);
+}
+
+.box4{
+    display: inline-block;
+    border: 1px solid rgb(255, 150, 109);
+    height: 50px;
+    width: 25%;
+    background-color: rgb(248, 203, 185);
+}
+
+.box5{
+    display: inline-block;
+    border: 1px solid rgb(101, 240, 101);
+    height: 50px;
+    width: 25%;
+    background-color:  rgb(185, 255, 185);
+}
+
+.box6{
+    border: 1px solid rgb(240, 60, 69);
+    background-color: rgb(255, 168, 173);
+}
+ *{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+ }
+

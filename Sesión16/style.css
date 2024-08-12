@@ -1,0 +1,27 @@
+.principal{
+    background-color: rgb(255, 239, 176);
+    margin: auto;
+    width: 50%;
+    padding: 40px;
+    text-align: center;
+    height: 300px;
+    border-radius: 5px;
+    border: 1px rgb(255, 208, 20) solid;
+    color: rgb(221, 175, 57);
+}
+button{
+    padding: 5px;
+    border: 1px rgb(255, 208, 20) solid;
+    border-radius: 5px;
+    background-color: white;
+    color: goldenrod;
+}
+.resultado{
+    border: 1px rgb(255, 208, 20) solid;
+    border-radius: 5px;
+    width: 150px;
+    margin: auto;
+    font-size: larger;
+    font-weight: 800;
+    font-style: oblique;
+}

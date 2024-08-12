@@ -1,0 +1,15 @@
+div{
+    background-color: yellow;
+    width: 500px;
+    margin: auto;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: blue;
+}
+h1{
+    font-size: 26px;
+    text-align: center;
+}
+span{
+    color: red;
+}
