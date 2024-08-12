@@ -6,21 +6,27 @@
 }
 img{
     width: 100px;
+    height: 100px;
 }
 table{
-    border: 2px rgb(16, 173, 16) solid;
+    border: 2px maroon solid;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    width: 100%;
     
 }
 th{
-    border: 2px rgb(16, 173, 16) solid;
+    border: 2px maroon solid;
 }
 
 .Product{
     display: inline-block;
     width:400px ;
     height: 200px;
-    border: 2px rgb(139, 96, 14) solid;
+    border: 2px maroon solid;
     margin: auto;
     border-radius: 4px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    margin-left: 20px;
+    margin-right: 10px;
 }
